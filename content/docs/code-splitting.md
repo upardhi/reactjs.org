@@ -239,7 +239,7 @@ export const MyUnusedComponent = /* ... */;
 
 ```js
 // MyComponent.js
-export { MyComponent as default } from "./ManyComponents.js";
+export { MyComponent as default } from "./MyComponent.js";
 ```
 
 ```js
